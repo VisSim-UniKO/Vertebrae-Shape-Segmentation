@@ -1,0 +1,3 @@
+[submodule "SpineLib"]
+	path = SpineLib
+	url = https://github.com/Caetox/SpineLib.git
